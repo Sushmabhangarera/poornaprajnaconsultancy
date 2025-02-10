@@ -1,3 +1,3 @@
 # poornaprajnaconsultancy
 
-## The Poornaprajna Consultancy Service Website provides detailed information about college, services, objectives, contact details, and consultancy fees. Built with HTML, CSS, and JavaScript, it offers a user-friendly interface for students seeking guidance on admissions and career choices. The site includes an interactive responsive design for seamless navigation.
+The Poornaprajna Consultancy Service Website delivers comprehensive details about the college, its services, goals, contact information, and consultancy charges. Developed using HTML, CSS, and JavaScript, it features an intuitive interface for students looking for assistance with admissions and career decisions. The website incorporates a responsive and interactive design, ensuring smooth navigation
